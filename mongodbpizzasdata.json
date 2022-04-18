@@ -1,7 +1,7 @@
 [{
  
   "name": "PEPPER BARBECUE CHICKEN",
-  "varients": [
+  "variants": [
     "small",
     "medium",
     "large"
@@ -19,7 +19,7 @@
 },{
   
   "name": "Non Veg Supreme",
-  "varients": [
+  "variants": [
     "small",
     "medium",
     "large"
@@ -37,7 +37,7 @@
 },{
   
   "name": "Golden Corn Pizza",
-  "varients": [
+  "variants": [
     "small",
     "medium",
     "large"
@@ -55,7 +55,7 @@
 },{
   
   "name": "Jalapeno & Red Paprika Pizza",
-  "varients": [
+  "variants": [
     "small",
     "medium",
     "large"
@@ -73,7 +73,7 @@
 },{
   
   "name": "Margerita",
-  "varients": [
+  "variants": [
     "small",
     "medium",
     "large"
@@ -91,7 +91,7 @@
 },{
  
   "name": "Double Cheese Margherita Pizza",
-  "varients": [
+  "variants": [
     "small",
     "medium",
     "large"
