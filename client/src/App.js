@@ -5,6 +5,8 @@ import Navbar from './components/Navbar';
 import Homepage from './pages/Homepage';
 import {BrowserRouter, Link, Switch, Route, Routes} from 'react-router-dom';
 import Cartpage from './pages/Cartpage';
+import Registrationpage from './pages/Registrationpage';
+import Loginpage from './pages/Loginpage';
 
 function App() {
   return (
@@ -16,6 +18,8 @@ function App() {
         
           <Route path="/" exact component={Homepage}/>
           <Route path="/cart" exact component={Cartpage}/>
+          <Route path='/register' exact component={Registrationpage}/>
+          <Route path='/login' exact component={Loginpage}/>
         
 
       </BrowserRouter>
